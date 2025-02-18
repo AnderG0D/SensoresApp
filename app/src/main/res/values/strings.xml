@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SensoresObtener</string>
+
+    <string name="textView_titulo">
+        Listado de Sensores</string>
+
+</resources>
